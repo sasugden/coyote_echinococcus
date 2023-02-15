@@ -1,5 +1,5 @@
 # coyote_echinococcus
-This repository contains the data and supporting code for our manuscript "Age-dependent relationships among diet, body condition, and <i>Echinococcus multilocularis infection in urban coyotes</i>," which is currently under consideration for publication in <i>Ecosphere</i>.
+This repository contains the data and supporting code for our manuscript "Age-dependent relationships among diet, body condition, and <i>Echinococcus multilocularis infection in urban coyotes<i>," which is currently under consideration for publication in <i>Ecosphere<i>.
 
 The file <b>emulti_analysis_code</b> contains the R code necessary to produce all analyses.
 The file <b>emulti_figures_code</b> contains the R code necessary to reproduce all figures.
